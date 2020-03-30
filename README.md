@@ -1,4 +1,4 @@
-# Team name
+# Delta
 Team slogan 
 
 ## Members:
