@@ -1,5 +1,5 @@
 # Delta
-Team slogan 
+Delta 
 
 ## Members:
 * Member 1
