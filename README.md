@@ -1,5 +1,5 @@
 # Delta
-Live your dream.
+Delta
 
 ## Members:
 * Sargsyan Grigor              (Team Lead)
